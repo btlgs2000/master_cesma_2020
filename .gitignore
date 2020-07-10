@@ -2,3 +2,4 @@ CNN.ipynb
 mnist_train.csv
 mnist_test.csv
 NN_from_scratch_regression_solved.ipynb
+runs/**
